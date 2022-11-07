@@ -4,11 +4,12 @@
 
 
 ## 📚Tech Stack📚
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/> 
-<img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="90" height="30"/>
+<img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=ava&logoColor=white" width="90" height="30"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" height="30"/> 
+
   
   <br><br>
 
