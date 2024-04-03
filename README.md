@@ -1,6 +1,6 @@
 <div align = center>
   
- ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Meruberu&fontAlign=50&fontAlignY=40&color=gradient&customColorList=10,12,20,20,30&animation=twinkling)
+ ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Merong&fontAlign=50&fontAlignY=40&color=gradient&customColorList=10,12,20,20,30&animation=twinkling)
 
 
 ## 📚Tech Stack📚
