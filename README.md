@@ -14,6 +14,7 @@
   <br><br>
 
 ![1786b119778bb1ca718047c3a20e7285](https://user-images.githubusercontent.com/99253403/199625967-965e4cf0-5617-426a-a4b3-0c63359e3603.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Merong-153)](https://github.com/anuraghazra/github-readme-stats)
 
   <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meruberu&show_icons=true&bg_color=000000&title_color=E5A800&text_color=ffffff&icon_color=E5A800)
